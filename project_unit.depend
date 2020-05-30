@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590848329 source:f:\all samester lecture(uiu)\before fall 2012\my work csi\poject 1\project_test\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
